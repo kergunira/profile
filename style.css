@@ -72,6 +72,14 @@ div {
   font-size: 50px;
   color: #b4383c;
 }
+
+.btn-red {
+  background-color: #b4383c;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+}
+
 @media (max-width: 960px) {
   .container {
     width: 700px;
